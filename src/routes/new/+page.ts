@@ -1,5 +1,5 @@
 export const load = () => {
   return {
-    title: `Quick Quote`,
+    title: `New Quote`,
   };
 };

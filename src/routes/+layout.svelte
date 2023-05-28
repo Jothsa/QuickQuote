@@ -11,4 +11,6 @@
 </svelte:head>
 
 <h1>{$page.data.title}</h1>
-<slot />
+<main>
+  <slot />
+</main>

@@ -1,8 +1,3 @@
-# Jothsa's SvelteKit Template
+# Quick Quote
 
-## TODO ADD Details
-
-```bash
-pnpm i
-pnpm dev --open
-```
+Quickly generate a stylized quote

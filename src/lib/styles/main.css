@@ -1,0 +1,9 @@
+main {
+  display: grid;
+  justify-content: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Carter One', sans-serif;
+  text-align: center;
+}

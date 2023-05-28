@@ -1,3 +1,3 @@
-export const load = async ({ url: { pathname } }) => {
-  return { pathname };
+export const load = async ({ url: { pathname, searchParams } }) => {
+  return { pathname, searchParams };
 };
